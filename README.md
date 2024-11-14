@@ -1,9 +1,9 @@
 # Objetos-en-Java
 Este repositorio va a constar de ejercicios sobre objetos en java, desde trabajos con herencias, interfaces, busquedas, diseño composite, copia, etc 
 
-##ENUNCIADO DE LOS EJERCICIOS  
+## ENUNCIADO DE LOS EJERCICIOS  
   
-**Composite.Correo:  
+** Composite.Correo:  
   
 Una compañía de envíos posee distintos tipos de servicios de envíos, entre los mismos se encuentran:  
 - Envío de paquetes y cartas, una carta/paquete posee un destinatario con su dirección, un remitente con su dirección, si la retiran en la sucursal de destino o la envían a domicilio, y su peso.
